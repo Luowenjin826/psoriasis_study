@@ -17,25 +17,18 @@
 #date: 2024-01-15
 ############################################################################
 
-
-library(data.table)
-library(plyr)
-library(dplyr)
-library(survival)
-library(future)
-library(future.apply)
-
-
 ##########################Psoriasis_Cox_regression##########################
 # Remove all objects from the current environment to start fresh
 rm(list=ls())
 gc()
 # Load necessary libraries
 library(data.table) 
+library(plyr) 
 library(dplyr) 
 library(survival) 
+library(future)
+library(future.apply)
 library(furrr) 
-library(plyr) 
 
 # Read the covariates data
 covar <- fread('~/data/PSO/cox/covar.csv')
