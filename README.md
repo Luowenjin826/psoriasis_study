@@ -1,6 +1,6 @@
 # **Psoriasis study**
 This directory holds the source code needed for: 
-Ruolin Li, Wenjin Luo, et al. Nat Commun.2024;15(1):7952.Association between psoriasis and risk of malignancy: observational and genetic investigations.doi: 10.1038/s41467-024-51824-6. 
+Ruolin Li, Wenjin Luo, et al. Nat Commun.2024;15(1):7952.An observational and genetic investigation into the association between psoriasis and risk of malignancy.doi: 10.1038/s41467-024-51824-6. 
 
 Affiliation: The First Affiliated Hospital of Chongqing Medical University, Chongqing, China
 ****
